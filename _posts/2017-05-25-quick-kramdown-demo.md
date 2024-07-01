@@ -2,8 +2,8 @@
 layout: post
 title: "Quick kramdown demo"
 description: "A quick demo post to some kramdown features."
-categories: [demo]
-tags: [demo, jekyll]
+categories: [¾È³ç]
+tags: [¾È³ç, ÇÏ¼¼¿ä]
 redirect_from:
   - /2017/05/25/
 ---
