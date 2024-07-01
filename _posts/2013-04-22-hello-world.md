@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World!"
+title: "c# 보관소"
 description: "The first 'Hello world' post for Simple Texture theme."
-categories: [uncategorized]
-tags: [random, jekyll]
+categories: [c#]
+tags: [c언어, c#]
 redirect_from:
-  - /2013/04/22/
+  - /2024/07/01/
 ---
-Hello World! This is the beginning of this theme.
+c#보관소입니다.
